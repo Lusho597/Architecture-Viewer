@@ -119,10 +119,12 @@ const modelFiles = {
     format: 'glb'
   },
 
-  Phase4: {
-    filename: 'COMPLETED 5.glb',
-    format: 'glb'
-  }
+  
+Phase4: {
+  filename: 'ALL IN ONE 4.glb',
+  format: 'glb'
+}
+
 };
 
 const phaseNames = {
