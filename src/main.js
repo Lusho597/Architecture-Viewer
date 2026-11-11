@@ -98,6 +98,7 @@ controls.update();
 // MODEL CONFIGURATION
 // =====================================
 
+
 const gltfLoader = new GLTFLoader();
 
 const modelFolder = `${import.meta.env.BASE_URL}models 3/`;
@@ -119,7 +120,7 @@ const modelFiles = {
   },
 
   Phase4: {
-    filename: 'ALL IN ONE 4.glb',
+    filename: 'COMPLETED 5.glb',
     format: 'glb'
   }
 };
@@ -130,6 +131,7 @@ const phaseNames = {
   Phase3: 'Separated',
   Phase4: 'All in One'
 };
+
 
 // =====================================
 // MODEL CONTAINER
